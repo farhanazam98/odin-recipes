@@ -1,0 +1,28 @@
+.center  {
+text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+li.recipe{
+    font-size: 24px;
+}
+
+.border {
+    border-width:3px;
+    border-style:solid;
+    border-color:#FF0000;
+    background-color: antiquewhite;
+}
+
+.background{
+    background-color: #E8F3D6;
+}
+
+.recipe-image{
+    width: 200px;
+    height: auto;
+}
